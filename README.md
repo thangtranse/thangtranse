@@ -2,9 +2,9 @@
 
 ### 🤝 Connect with me:
 
+<a href="https://www.linkedin.com/in/tran-thang-a83864168/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="44" width="44" /></a>
 <a href="https://www.facebook.com/thangtranse/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tiger" height="44" width="44" /></a>
 <a href="https://github.com/thangtranse" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="tiger" height="44" width="44" /></a>
-<a href="https://www.linkedin.com/in/tran-thang-a83864168/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="44" width="44" /></a>
 
 <hr />
 
